@@ -1,0 +1,22 @@
+White
+Light Gray
+Pink
+Red
+Maroon
+Magenta
+Orange
+Gold
+Yellow
+Tourquise
+Lime
+Green
+Jade
+Emerald
+Cyan
+Blue
+Sky
+Indigo
+Violet
+Brown
+Dark Gray
+Black
